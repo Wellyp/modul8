@@ -37,6 +37,7 @@ public class Faktorial{
 				System.out.print("*");
 			}
 			System.out.println();
+			System.out.println("updated");
 		}
 	}
 }
